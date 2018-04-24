@@ -1,0 +1,8 @@
+TODO
+1- Add legend for common abbreviations, USFG = Us Federal Gov, TH= this house, etc.
+2- Add ability to randomize for 3 resolutions
+
+Maybe:
+1- Parli timer
+2- Link Parli discussion forum
+
