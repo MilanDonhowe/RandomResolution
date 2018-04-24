@@ -1,4 +1,4 @@
-# (Random Parlimentary Debate Resolution Picker)[https://respicker.netlify.com/]
+# Random Parlimentary Debate Resolution Picker https://respicker.netlify.com/
 A web app for selecting random parliamentary-resolutions for practicing.  Access the website [here](https://respicker.netlify.com/).
 
 Nearly all resolutions are from real speech and debate tournaments.
