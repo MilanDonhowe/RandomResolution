@@ -208,7 +208,31 @@ resolved = {
             "The Federal Government should not decrease funding for sanctuary cities in the United States.",
             "The United States Senate filibuster should be eliminated.",
             "The Federal Government should establish a Medicare for All health insurance program.",
-            "Resolved: U.S. withdrawal from the Paris Accord will cause a significant setback in the fight against climate change."
+            "Resolved: U.S. withdrawal from the Paris Accord will cause a significant setback in the fight against climate change.",
+            "Teachers should be given handgun training.",
+            "Celebrities should not be allowed to run for public office.",
+            "The global community should prioritize development of impoverished nations.",
+            "Churches should pay taxes.",
+            "China should be banned from the Arctic Circle.",
+            "Politicians should have to take an geopolitics education course before public office and during.",
+            "A bill limiting the number of child should be implemented.",
+            "Negotiation with terrorists is in the best interest of the US.",
+            "The US ought to adopt a Universal Basic Income.",
+            "Wealthy Nations have a moral obligation to provide development assistance to other nations.",
+            "The United States should have open borders.",
+            "All European refugees should be given automatic citizenship.",
+            "Elected officials should not be allowed to use social media.",
+            "Nuclear weapons are a benefit for the world.",
+            "Civilians should only be allowed access to 10 round capacity magazines.",
+            "The adoption of haiti into US statehood is unbeneficial.",
+            "Overpopulation is not a problem.",
+            "The US should remove school resource officers.",
+            "The Cleveland administration was justified in their sanctioning of the walkout.",
+            "The US should disarm police officers.",
+            "American High schools have a right to regulate protests.",
+            "The Trump striking of Syria was justified.",
+            "War is justified in the retaliation to civilian harm."
+
 
         ]
     
