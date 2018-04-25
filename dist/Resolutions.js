@@ -190,7 +190,25 @@ resolved = {
             "Uber should do more to protect its customers from sexual assaults.",
             "Limitations on high school publications by administrators are justified.",
             "Foreign terrorists should be given constitutional rights.",
-            "The U.S. corporate tax system should be reformed."
+            "The U.S. corporate tax system should be reformed.",
+            "This House regrets the rise of alternative media.",
+            "This House supports compulsory climate science education in secondary schools.",
+            "This House would automatically indict police officers implicated in the deaths of unarmed civilians.",
+            "This House would ban medically non-essential, cosmetic plastic surgery.",
+            "This House believes that the commercialization of feminism has been detrimental to the movement.",
+            "This House would not commemorate war.",
+            "This House believes governments should hold individual executives personally liable for company-wide misconduct rather than prosecuting the corporations themselves.",
+            "This House believes the benefits of intentionally disclosing secret government information outweigh the harms.",
+            "This House regrets the rise of global populism.",
+            "Resolved: Bilingual education should be mandatory in all American public schools.",
+            "Resolved: Bilingual education should be mandatory in all American public schools.",
+            "Resolved: Under FCC rules, broadband internet services should remain classified as a telecommunication service, not an information service.",
+            "Resolved: Mandatory minimum sentences for non-violent drug offenses should be abolished in the U.S. criminal justice system.",
+            "The Federal Government should reduce its role in public education in the United States.",
+            "The Federal Government should not decrease funding for sanctuary cities in the United States.",
+            "The United States Senate filibuster should be eliminated.",
+            "The Federal Government should establish a Medicare for All health insurance program.",
+            "Resolved: U.S. withdrawal from the Paris Accord will cause a significant setback in the fight against climate change."
 
         ]
     
